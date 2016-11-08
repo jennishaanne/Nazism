@@ -1,4 +1,3 @@
-<!Nazism.html>
 <html lang=”eng”>
 <head>
 <title> Nazism </title> 
