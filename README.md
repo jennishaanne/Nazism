@@ -1,6 +1,6 @@
 <html lang=”eng”>
 <head>
-<title> <h3> Nazism </h3> </title> 
+<title> Nazism </title> 
 </head>
 <body>
 <p> <strong> <i> National Socialism </i> </strong> <i lang=”de”> (Nationalsozialismus) </i>, more commonly known as Nazism is the ideology and practice associated with the 20th-century German <a href="//en.wikipedia.org/wiki/Nazi_Party">Nazi Party </a> and <a href="https://en.wikipedia.org/wiki/Nazi_Germany"> Nazi state </a>, as well as other far-right groups. Usually characterised as a form of fascism that incorporates scientific racism and antisemitism, Nazism developed out of the influences of Pan-Germanism, the <i lang=”de”>Völkisch </i> German nationalist movement and the anti-communist Freikorps paramilitary groups that emerged during the Weimar Republic after German defeat in <a href="https://en.wikipedia.org/wiki/World_War_I"> World War I</a>.
